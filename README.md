@@ -1,23 +1,23 @@
-# [transformadoras.dev](https://transformadoras.dev) 🏳️‍⚧️✨
+# [transformadoras.dev] (https://transformadoras.dev) 🏳️‍⚧️✨
 
-Quantas pessoas trans notáveis na tecnologia você consegue citar sem qualquer pesquisa prévia? Você conhece as suas biografias, os seus feitos? O projeto **Transformadoras** celebra pessoas trans na tecnologia ao recontar e reunir em um repositório as histórias do impacto que elas fazem ou um dia fizeram na área — da instrução de manuseio dinâmico generalizado até iniciativas que ajudam a tornar os nossos ambientes de discussão e colaboração mais seguros para todas as pessoas.
+How many transgender people in technology can you name without any prior research? Do you know their biographies, their achievements? The ** Transformadoras ** project celebrates trans people in technology by retelling and gathering in a repository the stories of the impact they make or once made in the area - from generalized dynamic handling instruction to initiatives that help make our discussion environments safer collaboration for everyone.
 
-## O que usamos para construir o nosso site?
-* 🧰 **Framework:** [Hugo](https://gohugo.io) (versão 0.73.0)
-* 🎨 **Tema:** um fork do [Creative Portfolio](https://github.com/transformadoras/hugo-creative-portfolio-theme)
-* 🚀 **Lançamento:** [Netlify](https://netlify.com)
+## What do we use to build our website?
+* 🧰 ** Framework: ** [Hugo] (https://gohugo.io) (version 0.73.0)
+* 🎨 ** Theme: ** a fork of [Creative Portfolio] (https://github.com/transformadoras/hugo-creative-portfolio-theme)
+* 🚀 ** Release: ** [Netlify] (https://netlify.com)
 
-## Como gerenciamos o conteúdo?
-### Armazenamento de dados
-Hugo oferece suporte para [o armazenamento de dados personalizados na pasta `data`](https://gohugo.io/templates/data-templates/#the-data-folder) através de arquivos YAML, JSON e e TOML que podem ser referenciados em arquivos HTML dedicados à geração de páginas. Escolhemos usar arquivos JSON ([JavaScript Object Notation](https://pt.wikipedia.org/wiki/JSON)) para receber as informações necessárias para montar as biografias de pessoas trans pela menor barreira de aprendizado, melhor legibilidade e pelas experiências positivas que uma de nossas mantenedoras teve em um caso de uso semelhante. Esses arquivos nos ajudam a controlar melhor fatores como o conjunto mínimo de informações para a criação de uma biografia (fotografia, nacionalidade, história) e a aparência e disposição de cada item na página em que ela será exibida.
+## How do we manage the content?
+### Data storage
+Hugo offers support for [storing personalized data in the `data` folder] (https://gohugo.io/templates/data-templates/#the-data-folder) through YAML, JSON and and TOML files that can be referenced HTML files dedicated to page generation. We chose to use JSON files ([JavaScript Object Notation] (https://en.wikipedia.org/wiki/JSON)) to receive the information needed to assemble the biographies of trans people by the lowest learning barrier, best readability and positive experiences that one of our maintainers had in a similar use case. These files help us better control factors such as the minimum set of information for creating a biography (photograph, nationality, history) and the appearance and layout of each item on the page where it will be displayed.
 
-### Gerenciamento das páginas
-O framework também oferece [um modelo de lista](https://gohugo.io/templates/lists/) para renderizar múltiplas páginas de uma mesma categoria e um [modelo de página individual](https://gohugo.io/templates/single-page-templates/) para controlarmos a aparência e funcionamento de uma página de uma categoria específica. Ainda não decidimos a estratégia que empregaremos para categorizar as biografias que receberemos, mas a compreensão dos dois modelos citados é essencial para a construirmos uma.
+### Managing the pages
+The framework also offers [a list template] (https://gohugo.io/templates/lists/) to render multiple pages of the same category and an [individual page template] (https://gohugo.io/templates / single-page-templates /) to control the look and feel of a page in a specific category. We have not yet decided on the strategy we will use to categorize the biographies we will receive, but understanding the two models mentioned is essential for building one.
 
-## Como posso contribuir?
-- 🗃️ Sugira pessoas trans para incluirmos em nosso repositório [através de um issue](https://github.com/transformadoras/website/issues)
-- 🛠️ Ajude-nos a personalizar o nosso site [melhorando o nosso tema-base](https://github.com/transformadoras/hugo-creative-portfolio-theme)
-- 🧠 Auxilie-nos a construir estratégias para fazer deste projeto algo ainda melhor!
+## How can I contribute?
+- 🗃️ Suggest trans people to include in our repository [via an issue] (https://github.com/transformadoras/website/issues)
+- 🛠️ Help us personalize our website [improving our base theme] (https://github.com/transformadoras/hugo-creative-portfolio-theme)
+- 🧠 Help us build strategies to make this project even better!
 
-## Idealizadoras
-Este projeto é fruto de uma conversa e uma amizade entre [Juliana Dias](https://github.com/juuh42dias) e [Anna e só](https://github.com/contraexemplo), duas pesssoas trans na tecnologia. Ele é construído com muito amor e carinho diretamente do coração do Brasil.
+## Creators
+This project is the result of a conversation and a friendship between [Juliana Dias] (https://github.com/juuh42dias) and [Anna e só] (https://github.com/contrexexample), two trans people in technology. It is built with a lot of love and care directly from the heart of Brazil.
